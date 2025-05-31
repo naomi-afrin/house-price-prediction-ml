@@ -68,7 +68,7 @@ This project explores a real estate dataset to:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction-ml.git
+   git clone https://github.com/naomi-afrin/house-price-prediction-ml.git
    cd house-price-prediction-ml
 
 ---
